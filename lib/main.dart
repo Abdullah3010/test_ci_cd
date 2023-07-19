@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Test CI/CD nod dev',
+              'Test CI/CD with Github Actions',
             ),
             Text(
               '$_counter',
